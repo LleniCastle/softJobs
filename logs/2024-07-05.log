@@ -1,0 +1,168 @@
+
+Started GET / for :: ::1 at Fri Jul 05 2024 14:28:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 18 ms Request ID: [e94919b5-42e4-464d-ac03-01555001322d]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 14:28:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Frontend Developer","lenguage":"Python"}
+Completed: 404 message:  Time response: 3 ms Request ID: [ed135982-cbd4-4680-a8fe-b82d9ef8fab6]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 14:28:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 404 message:  Time response: 15 ms Request ID: [46e9098a-3c10-44c5-8e1e-702d67873ce6]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 14:28:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456ss","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 404 message:  Time response: 4 ms Request ID: [df338500-56e0-4e9b-a261-129f3f47fdfd]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 14:29:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456ss","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 404 message:  Time response: 5 ms Request ID: [601049ba-544a-45db-8407-cf4cee67dbc8]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 14:30:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456ss","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 404 message:  Time response: 6 ms Request ID: [57467d8e-a59e-49f4-8168-6621eee47540]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 14:32:18 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456ss","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 500 message:  Time response: 6 ms Request ID: [553d54e1-7afb-45c9-888e-c46a1689c5e5]
+
+Started GET /usuarios for :: ::1 at Fri Jul 05 2024 15:23:18 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 13 ms Request ID: [77568352-6abd-47f1-b03b-6f20cf2c388c]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Fri Jul 05 2024 15:23:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [84939433-4b97-4ca7-bf5e-02f3403739e5]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Fri Jul 05 2024 15:28:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 6 ms Request ID: [ae375f69-9ce1-44af-b6f9-459f53ccef29]
+
+Started GET / for :: ::1 at Fri Jul 05 2024 15:33:18 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 11 ms Request ID: [8518d27b-9862-43b8-979e-62133426f0a5]
+
+Started GET /posts for :: ::1 at Fri Jul 05 2024 15:34:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 12 ms Request ID: [1110c26b-2de9-4423-b3f3-2c6ad87899e4]
+
+Started GET / for :: ::1 at Fri Jul 05 2024 15:34:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [18269312-0e24-4016-8a57-6c4ba7c6dfac]
+
+Started GET / for :: ::ffff:127.0.0.1 at Fri Jul 05 2024 15:34:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [1c42d491-6ec7-46fb-888b-0549e189f810]
+
+Started POST / for :: ::ffff:127.0.0.1 at Fri Jul 05 2024 15:34:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [0cc905b4-4d50-4fab-ac19-177cd47a76cf]
+
+Started POST /users for :: ::ffff:127.0.0.1 at Fri Jul 05 2024 15:35:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [bb4ab361-30e1-44c6-a5ba-732c2c6abf39]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Fri Jul 05 2024 15:35:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [182f6e0c-a1a7-4b74-8c81-0c737c0c5bba]
+
+Started POST /users for :: ::ffff:127.0.0.1 at Fri Jul 05 2024 15:35:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [ba611189-7827-4fea-a874-65906b4f3780]
+
+Started POST /users for :: ::ffff:127.0.0.1 at Fri Jul 05 2024 15:41:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 27 ms Request ID: [c1114449-6512-4935-bf9e-77dba0092f73]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 15:47:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 404 message:  Time response: 4 ms Request ID: [ca0151c5-136f-4c2d-af3a-27020193d762]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 15:47:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 404 message:  Time response: 9 ms Request ID: [628ae040-b0cf-4499-a8b6-2c25a0c525e8]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 15:56:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Frontend Developer","lenguage":"JavaScript"}
+Completed: 404 message:  Time response: 5 ms Request ID: [5858c2c2-49ef-404d-bef5-12d977dded4e]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 15:56:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Frontend Developer","lenguage":"Python"}
+Completed: 404 message:  Time response: 5 ms Request ID: [2eaa9d62-a65d-4825-b5db-30f364a91640]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 15:58:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 404 message:  Time response: 8 ms Request ID: [e7ba5d82-0beb-4e83-9696-a52ac81d5bac]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 16:05:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 9 ms Request ID: [70c8796b-bba0-49c3-a752-009dd536fef3]
+
+Started GET /usuarios for :: ::1 at Fri Jul 05 2024 16:05:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 10 ms Request ID: [f7201348-45ef-438e-a13c-c979d8233bfe]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 16:09:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.comxx","password":"123456xx","rol":"Backend Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 6 ms Request ID: [aa628b69-2012-41fa-99a4-bf0a32735c31]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 16:11:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Frontend Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 3 ms Request ID: [386ae93e-eb09-460e-8342-e26d54009482]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 16:12:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 3 ms Request ID: [affe6eb7-ac94-4175-9be5-83a30d2fbddd]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 16:12:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Frontend Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 4 ms Request ID: [2e61cb13-13fd-452a-9ac7-b592bf175799]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 16:15:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Frontend Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 14 ms Request ID: [2038b566-6b93-4d4c-a88d-9c854be2f4a4]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 16:21:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 16 ms Request ID: [7d1bdd32-0ba3-4cdd-bae0-7cb04d5ead0f]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Fri Jul 05 2024 16:27:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 12 ms Request ID: [0b8f2b62-938a-4ace-adc7-808269ddfadf]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Fri Jul 05 2024 16:28:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 11 ms Request ID: [6fc61e47-c534-4ae4-bbda-faa3b1a3bba6]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Fri Jul 05 2024 16:28:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 4 ms Request ID: [a4ed11f5-ed68-4e9a-8c44-d8156e675d5a]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Fri Jul 05 2024 16:30:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 11 ms Request ID: [c97ca7e5-3e04-4114-8786-aebc84ff0e11]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Fri Jul 05 2024 16:31:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 9 ms Request ID: [8f9d1f56-1465-4da4-a7bf-d2c4a9c1ce08]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Fri Jul 05 2024 16:33:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 12 ms Request ID: [269aff51-eb7f-491f-a78f-b934ef6f34d6]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 16:33:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Frontend Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 3 ms Request ID: [20d55839-b035-427f-95ec-dc7de815c195]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Fri Jul 05 2024 16:35:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 12 ms Request ID: [8c25e9d8-79af-4e09-83d1-cbd831af02f9]
+
+Started POST /usuarios for :: ::1 at Fri Jul 05 2024 16:35:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Frontend Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 3 ms Request ID: [eaf3a735-1748-4c93-95cb-1f6716b8f809]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Fri Jul 05 2024 16:39:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 4 ms Request ID: [ac7dc7df-9a9f-478a-a234-17ff17ec8f30]
