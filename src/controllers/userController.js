@@ -36,19 +36,23 @@ export const registrarUsuario = async (req, res) => {
 export const accederUsuario = async (req, res) => {
     const { email, password } = req.body;
     try {
-        console.log('Datos recibidos en accederUsuario:', { email, password });
+        console.log('Datos recibidos en accederUsuario:', { email });
 
+        // Buscar usuario por email en la base de datos
         const user = await obtenerUsuarioCorreo(email);
         console.log('Usuario encontrado:', user);
 
+        // Verificar si el usuario existe y si la contraseña es correcta
         if (!user || !(await bcrypt.compare(password, user.password))) {
             console.log('Credenciales inválidas');
             return res.status(401).json({ error: 'Credenciales inválidas' });
         }
 
+        // Generar token JWT
         const token = jwt.sign({ email: user.email }, JWT_SECRET, { expiresIn: '1h' });
         console.log('Token generado:', token);
 
+        // Enviar token JWT como respuesta
         res.json({ token });
     } catch (error) {
         console.error('Error iniciando sesión:', error);

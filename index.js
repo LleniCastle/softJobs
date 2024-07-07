@@ -20,7 +20,7 @@ app.use((req, res, next) => {
     next();
 });
 
-app.use('/api', userRoutes); // Asegúrate de que '/api' sea la ruta base correcta para userRoutes
+app.use('/api', userRoutes); 
 
 app.listen(PORT, () => {
     console.log(`¡Servidor encendido! http://localhost:${PORT}`);
